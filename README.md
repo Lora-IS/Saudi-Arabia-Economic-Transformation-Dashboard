@@ -6,6 +6,10 @@ An interactive Power BI dashboard analyzing Saudi Arabia's real GDP transformati
 
 The dashboard explores overall GDP growth, the expansion of the non-oil economy, oil vs. non-oil sector performance, and annual GDP growth trends.
 
+## Dashboard Preview
+
+![Saudi Arabia Economic Transformation Dashboard](images/dashboard.png)
+
 ## Key Insights
 
 - **Real GDP reached 4.91M Million SAR in 2025**
