@@ -8,7 +8,7 @@ The dashboard explores overall GDP growth, the expansion of the non-oil economy,
 
 ## Dashboard Preview
 
-![Saudi Arabia Economic Transformation Dashboard](images/dashboard.png)
+![Saudi Arabia Economic Transformation Dashboard](National_GDP.png)
 
 ## Key Insights
 
